@@ -1,0 +1,12 @@
+{
+  "name": "relogio-simples-app",
+  "version": "1.0.0",
+  "description": "Aplicativo de relógio simples",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^13.0.0"
+  }
+}
